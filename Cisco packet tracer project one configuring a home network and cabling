@@ -2,8 +2,8 @@ Cisco packet tracer project one configuring a home network and cabling.mp4 (http
 Practic file first time configuring a simulated home network in Cisco packet tracer network simulator
 added home router to the topology
 added IoT web Cam to the topology
-added PC to the topology
-added Laptop to the topoloty
+Added a desktop workstation and connected it to the home router using a copper straight-through cable to establish wired network connectivity
+Configured a laptop with a wireless network adapter and verified successful association with the wireless router
 cabeled end devices on the topology using the automatice cabler
 confirmed the correct cabling was added
 the IoT web cam and the PC were cabled with a straight through (this is acceptable because these are modern technologies and they have internal adjustments to ensure connection and no cross-talk)
