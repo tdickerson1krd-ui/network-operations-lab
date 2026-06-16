@@ -1,5 +1,5 @@
 https://docs.google.com/document/d/1Zja1b72fZuLunJIg5N1SLv2vtpVvemkKB-TgyyMr7Uo/edit?usp=sharing  -link to study plan doc
-Meta Network Engineer 6-Month Study Guide (2026)
+Network Engineer 6-Month Study Guide (2026)
 Study Plan Overview
 This guide provides a day-to-day breakdown to prepare for a Network Operations role at Meta, focusing on the high-density, automated environments used in their data centers.
 Cisco 300-635 Books | NWExam
