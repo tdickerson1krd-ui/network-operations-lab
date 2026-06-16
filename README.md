@@ -1,7 +1,7 @@
 https://docs.google.com/document/d/1Zja1b72fZuLunJIg5N1SLv2vtpVvemkKB-TgyyMr7Uo/edit?usp=sharing  -link to study plan doc
 Network Engineer 6-Month Study Guide (2026)
 Study Plan Overview
-This guide provides a day-to-day breakdown to prepare for a Network Operations role at Meta, focusing on the high-density, automated environments used in their data centers.
+This guide provides a day-to-day breakdown to prepare for a Network Operations role, focusing on the high-density, automated environments used in their data centers.
 Cisco 300-635 Books | NWExam
 Cisco Announces New AI Certifications and Courses
 Start Your Journey into the Future with Cisco's AI Solutions ...
@@ -20,7 +20,7 @@ AI Infrastructure & Fabric (DCAIAOT)
 Cisco DCAIAOT Track
 
 Months 1–2: Python Fundamentals [1]
-Goal: Reach intermediate proficiency (PCAP level). Meta interviews often include "Leetspec" coding tasks related to log parsing. [2, 3]
+Goal: Reach intermediate proficiency (PCAP level).Interviews often include "Leetspec" coding tasks related to log parsing. [2, 3]
 Month 1: Python Essentials 1 (PE1) [4]
 Days 1–5: Introduction to Python and Computer Programming. Focus on basic syntax and data types.
 Days 6–10: Operators, Variables, and Basic I/O. Practice arithmetic operations and the input() function.
